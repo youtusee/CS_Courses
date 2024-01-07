@@ -1,4 +1,4 @@
-# ![](https://avatars.githubusercontent.com/u/155809491?s=50&v=4 "")哈工大计算学部金牌讲师团 | 课程资料共享
+# 哈工大计算学部金牌讲师团 | 课程资料共享
 
 受 [浙江大学相关项目](https://github.com/QSCTech/zju-icicles) 、 [清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT) 和 [哈工大（深圳）相关项目](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)启发，创立了本项目。
 
@@ -22,7 +22,7 @@ Issue、PR、纠错、复习资料、学习笔记、选课/考试攻略，完全
 
 对 Github Pull requests 不熟悉的同学，可以查阅[如何参与开源项目](https://github.com/firstcontributions/first-contributions/blob/main/translations/README.zh-cn.md)中的流程
 
-如果希望匿名贡献，可以 email 至计算学部金牌讲师团邮箱，注明邮件主题即可：jsxbjpjst@126.com
+如果您希望匿名贡献，可以 email 至计算学部金牌讲师团邮箱，注明邮件主题即可：jsxbjpjst@126.com
 
 注：由于本仓库未启用 `git-lfs`，因此请不要上传单个超过 100M 的文件，否则 Commit 无效，Web端只适合 25M 以下小文件。
 
