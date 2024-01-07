@@ -1,10 +1,12 @@
 # 哈工大计算学部金牌讲师团 | 课程资料共享
 
+[![Github Watchers](https://img.shields.io/github/watchers/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=watchers&maxAge=2592000&color=blue)](https://github.com/HIT-FC-OpenCS/CS_Courses/watchers)  [![Github Stars](https://img.shields.io/github/stars/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=stars&maxAge=2592000&color=yellow)](https://github.com/HIT-FC-OpenCS/CS_Courses/stargazers)  [![Github Forks](https://img.shields.io/github/forks/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=forks&maxAge=2592000&color=green)](https://github.com/HIT-FC-OpenCS/CS_Courses/network/members)  [![Github Repository Size](https://img.shields.io/github/repo-size/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=repo-size&maxAge=2592000&color=orange)](https://github.com/HIT-FC-OpenCS/CS_Courses)
+
 受 [浙江大学相关项目](https://github.com/QSCTech/zju-icicles) 、 [清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT) 和 [哈工大（深圳）相关项目](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)启发，创立了本项目。
 
 感谢对本项目贡献的同学：[rookiexiong7](https://github.com/rookiexiong7)、[Ralph-Zhou](https://github.com/Ralph-Zhou)
 
-## :sparkles:愿景 | Vision
+## :sparkles: 愿景 | Vision
 
 **此仓库主要包括金牌讲师团在同学们学习过程中的学业支持活动记录，主要包括开箱手册、期末复习讲座及复习手册等资料**
 
@@ -12,7 +14,7 @@
 
 计算学部金牌讲师团始终以贺信精神为指导，传承“诲人不倦，甘为人梯；追求真理，坦诚待人”的光熙精神。坚持问题导向，根据各年级学生的实际需求，开展一系列有针对性的学业帮扶工作，致力于打通学业帮扶“最后一公里”。
 
-## :raised_hands:贡献 | Contribution
+## :raised_hands: 贡献 | Contribution
 
 **欢迎贡献，炬火煌煌相递传！** :blush:
 
@@ -24,7 +26,7 @@ Issue、PR、纠错、复习资料、学习笔记、选课/考试攻略，完全
 
 注：由于本仓库未启用 `git-lfs`，因此请不要上传单个超过 100M 的文件，否则 Commit 无效，Web端只适合 25M 以下小文件。
 
-## :clipboard:目录 | Content
+## :clipboard: 目录 | Content
 
 为便于查找，此 repo 将公共课必修课以及各个专业专业课放在不同的目录下，具体基本按照以下形式组织，请各位同学提交时注意命名规范，便于大家及时找到您的作品或经验~
 
@@ -48,7 +50,7 @@ Issue、PR、纠错、复习资料、学习笔记、选课/考试攻略，完全
 |──公共必修课/[专业]必修课
 ```
 
-## :rotating_light:警告 | Warning
+## :rotating_light: 警告 | Warning
 
 下列内容为不适合上传的内容。如果您认为缺少这些资料将会影响资源的完整性，请优先考虑放在校内资源平台，或联系您的教师并由教师发布。建议您撰写一个 `readme.md ` 文档并放置一些链接或指引文字来帮助找到这些资源。
 
@@ -60,7 +62,7 @@ Issue、PR、纠错、复习资料、学习笔记、选课/考试攻略，完全
 
 如果您认为本仓库的一些文件侵犯了您的权益，请[向我们发送邮件](jsxbjpjst@126.com) 。我们将会从仓库中彻底清除这些文件。
 
-## :page_facing_up:许可 | License
+## :page_facing_up: 许可 | License
 
 由贡献者编写部分的许可如下：
 
