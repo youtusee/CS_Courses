@@ -2,7 +2,7 @@
 
 受 [浙江大学相关项目](https://github.com/QSCTech/zju-icicles) 、 [清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT) 和 [哈工大（深圳）相关项目](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)启发，创立了本项目。
 
-感谢对本项目贡献的同学：
+感谢对本项目贡献的同学：[rookiexiong7](https://github.com/rookiexiong7)、[rookiexiong7](https://github.com/rookiexiong7)
 
 ## :sparkles:愿景 | Vision
 
