@@ -17,4 +17,6 @@
 
 ### 参考书目
 
-- [1] 现代密码学-原理与协议, Jonathan Katz,Yehuda Lindell著, 国防工业出版社
+- [1] 现代密码学-原理与协议, Jonathan Katz,Yehuda Lindell著, 任伟译, 国防工业出版社
+- [2] Introduction to Modern Cryptography 第三版, Jonathan Katz,Yehuda Lindell著, A Chapman and Hall BOOK/CRC
+- [3] Introduction to Modern Cryptography Solutions Manual(习题解答), Jonathan Katz,Yehuda Lindell著, CRC PRESS
