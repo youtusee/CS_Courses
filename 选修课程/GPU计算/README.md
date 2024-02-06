@@ -12,9 +12,7 @@ tip：2023秋有4个人拿到了Bonus
 
 
 #### 1. 总体介绍
-
-
- 课程大纲有：
+课程大纲有：
   - GPU计算概述
   - GPU硬件架构
   - GPU计算的软件抽象
@@ -75,6 +73,6 @@ tip：2023秋有4个人拿到了Bonus
 - [1] Duane Storti, Mete Yurtoglu. CUDA for Engineers: An Introduction to High-Performance Parallel Computing ,2016. (中⽂版: 苏统华等译,《CUDA⾼性能并⾏计算》, 机械⼯业出版社, 2017.2)
 - [2] 苏统华, 杜鹏.昇腾AI处理器CANN应⽤与实践,2021.
 - [3] 苏统华, 杜鹏, 周斌.昇腾AI处理器CANN架构与编程,2022.
-- [4] : David B. Kirk, Wen-mei W. Hwu. Programming Massively Parallel Processors: A Hands-on Approach (2 edition) ,2013. (中⽂版:《CUDA⼤规模并⾏处理器编程实战》, 清华⼤学出版社, 2013.12)
+- [4] David B. Kirk, Wen-mei W. Hwu. Programming Massively Parallel Processors: A Hands-on Approach (2 edition) ,2013. (中⽂版:《CUDA⼤规模并⾏处理器编程实战》, 清华⼤学出版社, 2013.12)
 - [5] Shane Cook, CUDA Programming -- A Developer‘s Guide to Parallel Computing with GPUs, 2013. (中⽂版: 苏统华等译,《CUDA并⾏程序设计：GPU编程指南》, 机械⼯业出版社, 2014.1 )
 - [6] Nicholas Wilt, The CUDA Handbook -- A Comprehensive Guide to GPU Programming, 2013.(中⽂版:苏统华等译,《CUDA专家⼿册：GPU编程权威指南》, 机械⼯业出版社, 2014.8 )
