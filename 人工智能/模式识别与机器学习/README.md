@@ -51,8 +51,8 @@
 
 - 李宏毅老师机器学习网课（也可以找前几年的）：[ML 2023 Spring (ntu.edu.tw)](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
 - 李宏毅老师生成式人工智慧導論：[GENERATIVE AI 2024 SPRING (ntu.edu.tw)](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)
-- B站跟李沐学AI[动手学深度学习 PyTorch版](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
-- B站吴恩达机器学习[吴恩达机器学习系列课程](https://www.bilibili.com/video/BV164411b7dx/)
+- B站跟李沐学AI：[动手学深度学习 PyTorch版](https://space.bilibili.com/1567748478/channel/seriesdetail?sid=358497)
+- B站吴恩达机器学习：[吴恩达机器学习系列课程](https://www.bilibili.com/video/BV164411b7dx/)
 
 ### 学习经验
 
