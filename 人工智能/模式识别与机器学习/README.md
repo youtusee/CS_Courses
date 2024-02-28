@@ -50,6 +50,7 @@
 ### 一些可能有用的资源
 
 - 李宏毅老师机器学习网课（也可以找前几年的）：[ML 2023 Spring (ntu.edu.tw)](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)
+- 李宏毅老师生成式人工智慧導論：[GENERATIVE AI 2024 SPRING (ntu.edu.tw)](https://speech.ee.ntu.edu.tw/~hylee/genai/2024-spring.php)
 
 ### 学习经验
 
