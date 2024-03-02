@@ -4,11 +4,10 @@ import logging
 import os
 import yaml
 import shutil
-from tqdm import tqdm
 from pprint import pprint
 from custom_logger import setup_logger
 
-# =============== DEBUG INFO WARNING ERROR CRITICAL =============== 
+# =============== 可供选择: DEBUG INFO WARNING ERROR CRITICAL =============== 
 logger = setup_logger(__name__, loglevel='DEBUG')
 
 
@@ -190,41 +189,46 @@ class WebsiteUpdater:
         """   
         自动更新yaml文件
         """
+        
+        # 自定义专业顺序，之后通过暴力搜索的方式更新yaml
+        major_order = ['公共课程', '计算机科学与技术', '人工智能', '数据科学与大数据技术', '信息安全', '网络空间安全', '软件工程', '选修课程']
+        
         ignore_dir_list = ['img']  # 不关注img文件夹中的内容
         docs_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'docs')
         
         new_yaml_data = {
             'site_name': 'HIT-FC-OpenCS',
             'theme': 'readthedocs',
-            'nav':[
+            'repo_url': 'https://github.com/HIT-FC-OpenCS/CS_Courses',
+            'nav': [
                 {'HIT-FC-OpenCS': 'index.md'}
             ]
         }
-        
-        for major in os.listdir(docs_path):
-            if major not in ignore_dir_list and os.path.isdir(os.path.join(docs_path, major)):
-                
-                major_dict = {major: []}
-                course_file_list = os.listdir(os.path.join(docs_path, major))
-                
-                for course_file in course_file_list:
-                    course_name = course_file.split('.')[0]
-                    suffix = course_file.split('.')[1]
+        for current_major in major_order:
+            for major in os.listdir(docs_path):
+                if major not in ignore_dir_list and os.path.isdir(os.path.join(docs_path, major)) and major == current_major:
                     
-                    if suffix != 'md':
-                        logger.error('File: {} is not a markdown file.'.format(course_file))
-                        exit(1)
+                    major_dict = {major: []}
+                    course_file_list = os.listdir(os.path.join(docs_path, major))
                     
-                    major_dict[major].append({course_name: os.path.join(major, course_file)})
-                    logger.debug('construct major_dict: {}'.format(major_dict))
-                
-                new_yaml_data['nav'].append(major_dict)
-        
-        with open('mkdocs.yml', 'w', encoding='utf-8') as yaml_file:
-            yaml.dump(new_yaml_data, yaml_file, default_flow_style=False, allow_unicode=True)
-        yaml_file.close()
-        
-        logger.info('Successfully wrote yaml file.')
+                    for course_file in course_file_list:
+                        course_name = course_file.split('.')[0]
+                        suffix = course_file.split('.')[1]
+                        
+                        if suffix != 'md':
+                            logger.error('File: {} is not a markdown file.'.format(course_file))
+                            exit(1)
+                        
+                        major_dict[major].append({course_name: os.path.join(major, course_file)})
+                        logger.debug('construct major_dict: {}'.format(major_dict))
+                    
+                    new_yaml_data['nav'].append(major_dict)
+            
+            with open('mkdocs.yml', 'w', encoding='utf-8') as yaml_file:
+                yaml.dump(new_yaml_data, yaml_file, default_flow_style=False, allow_unicode=True)
+            yaml_file.close()
+            
+            logger.info('Successfully wrote yaml file.')
 
 
 if __name__ == '__main__':
