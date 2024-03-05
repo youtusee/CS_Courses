@@ -1,7 +1,6 @@
 <div align="center">
     <img src="LOGO.png" alt="计算学部 | 课程资料共享计划">
 </div>
-
 <p align="center">
   <a href="https://github.com/HIT-FC-OpenCS/CS_Courses/watchers">
     <img src="https://img.shields.io/github/watchers/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=watchers&color=blue" alt="Github Watchers">
@@ -15,26 +14,26 @@
   <a href="https://github.com/HIT-FC-OpenCS/CS_Courses">
     <img src="https://img.shields.io/github/repo-size/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=repo-size&color=orange" alt="Github Repository Size">
   </a>
+  <a href="https://github.com/HIT-FC-OpenCS/CS_Courses/commits/main/">
+    <img src="https://img.shields.io/github/last-commit/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=last-commit&color=teal" alt="GitHub last commit">
+  </a>
 </p>
 
 
 
-## 前言
+## :ledger: 前言
 
 受 [浙江大学相关项目](https://github.com/QSCTech/zju-icicles) 、 [清华大学相关项目](https://github.com/PKUanonym/REKCARC-TSC-UHT) 和 [哈工大（深圳）相关项目](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)启发，创立了本项目。
 
 感谢对本项目贡献的同学：[rookiexiong7](https://github.com/rookiexiong7)、[Ralph-Zhou](https://github.com/Ralph-Zhou)、[skyrimforest](https://github.com/skyrimforest)、[decemberboy04](https://github.com/decemberboy04)、[tloly-Roc](https://github.com/tloly-Roc)、[StellaLin030](https://github.com/StellaLin030)、[cpu095](https://github.com/cpu095)、[ymd2002](https://github.com/ymd2002)、[jielahou](https://github.com/jielahou)、[Mubuky](https://github.com/Mubuky)、[jjuuulll](https://github.com/jjuuulll)、[pmczx](https://github.com/pmczx)
 
-## News
+## :fire: News
 
-[24/03/05] 上传LOGO
-
-[24/03/02] 我们制作的前端网页正式上线 https://hit-fc-opencs.github.io/CS_Courses/ ！
-
-[24/01/10] Github课程资料共享平台正式启动！
+- [24/03/05] :bento: 上传LOGO
+- [24/03/02] :tada: 我们制作的前端网页正式上线 https://hit-fc-opencs.github.io/CS_Courses/ ！
+- [24/01/10] :tada: Github课程资料共享平台正式启动！
 
 <details><summary>Full News</summary>
-
 </details>
 
 ## :sparkles: 愿景 | Vision
