@@ -2,15 +2,20 @@
     <img src="LOGO.png" alt="计算学部 | 课程资料共享计划">
 </div>
 
-
-<div align="center">
-    <p>
-        [![Github Watchers](https://img.shields.io/github/watchers/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=watchers&color=blue)](https://github.com/HIT-FC-OpenCS/CS_Courses/watchers)  
-        [![Github Stars](https://img.shields.io/github/stars/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=stars&color=yellow)](https://github.com/HIT-FC-OpenCS/CS_Courses/stargazers)  
-        [![Github Forks](https://img.shields.io/github/forks/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=forks&color=green)](https://github.com/HIT-FC-OpenCS/CS_Courses/network/members)  
-        [![Github Repository Size](https://img.shields.io/github/repo-size/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=repo-size&color=orange)](https://github.com/HIT-FC-OpenCS/CS_Courses)
-    </p>
-</div>
+<p align="center">
+  <a href="https://github.com/HIT-FC-OpenCS/CS_Courses/watchers">
+    <img src="https://img.shields.io/github/watchers/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=watchers&color=blue" alt="Github Watchers">
+  </a>
+  <a href="https://github.com/HIT-FC-OpenCS/CS_Courses/stargazers">
+    <img src="https://img.shields.io/github/stars/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=stars&color=yellow" alt="Github Stars">
+  </a>
+  <a href="https://github.com/HIT-FC-OpenCS/CS_Courses/network/members">
+    <img src="https://img.shields.io/github/forks/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=forks&color=green" alt="Github Forks">
+  </a>
+  <a href="https://github.com/HIT-FC-OpenCS/CS_Courses">
+    <img src="https://img.shields.io/github/repo-size/HIT-FC-OpenCS/CS_Courses.svg?style=flat&label=repo-size&color=orange" alt="Github Repository Size">
+  </a>
+</p>
 
 
 
