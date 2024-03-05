@@ -35,6 +35,8 @@
 
 <details><summary>Full News</summary>
 
+</details>
+
 ## :sparkles: 愿景 | Vision
 
 **此仓库主要包括金牌讲师团在同学们学习过程中的学业支持活动记录，主要包括开箱手册、期末复习讲座及复习手册等资料**
