@@ -25,6 +25,16 @@
 
 感谢对本项目贡献的同学：[rookiexiong7](https://github.com/rookiexiong7)、[Ralph-Zhou](https://github.com/Ralph-Zhou)、[skyrimforest](https://github.com/skyrimforest)、[decemberboy04](https://github.com/decemberboy04)、[tloly-Roc](https://github.com/tloly-Roc)、[StellaLin030](https://github.com/StellaLin030)、[cpu095](https://github.com/cpu095)、[ymd2002](https://github.com/ymd2002)、[jielahou](https://github.com/jielahou)、[Mubuky](https://github.com/Mubuky)、[jjuuulll](https://github.com/jjuuulll)、[pmczx](https://github.com/pmczx)
 
+## News
+
+[24/03/05] 上传LOGO
+
+[24/03/02] 我们制作的前端网页正式上线 https://hit-fc-opencs.github.io/CS_Courses/ ！
+
+[24/01/10] Github课程资料共享平台正式启动！
+
+<details><summary>Full News</summary>
+
 ## :sparkles: 愿景 | Vision
 
 **此仓库主要包括金牌讲师团在同学们学习过程中的学业支持活动记录，主要包括开箱手册、期末复习讲座及复习手册等资料**
