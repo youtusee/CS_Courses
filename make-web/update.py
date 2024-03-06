@@ -56,7 +56,23 @@ class WebsiteUpdater:
                 }
             }
         }
+        
+        迭代算法识别资源文件，要求目录组织形式如下：
+        [课程名称]/
+        │-- README.md
+        │
+        │-- 课程复习资料/
+        │   │-- [资料名称].pdf
+        │   │-- [资料名称].pptx
+        │   │-- ......
+        │
+        │-- 课程学习资源/
+        │   │-- [资源名称].pdf
+        │   |-- ......
+        │
+        │-- ......
         """
+        
         # =============== 遍历专业 =============== 
         for major in os.listdir(self.base_path):
             if major in self.registered_majors:
@@ -118,7 +134,8 @@ class WebsiteUpdater:
             resource_url = resource_url.replace('\\', '/')
             logger.debug('url: {}'.format(resource_url))
             
-            file_name = resource_url.split('/')[-1].split('.')[0]
+            # file_name = resource_url.split('/')[-1].split('.')[0]
+            file_name = resource_url.split('/')[-1]
             logger.debug('file name: {}'.format(file_name))
             
             # 若开启strict_mode，则会先通过requests库尝试访问url链接，若成功响应再填入该链接
