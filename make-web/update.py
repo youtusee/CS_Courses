@@ -23,8 +23,8 @@ class WebsiteUpdater:
         # 支持的readme格式
         self.readme_name = ['README.md', '课程说明.md']
         
-        # 支持的资源后缀名
-        self.resource_suffix = ['pdf', 'ppt', 'pptx', 'doc', 'docs']
+        # 支持的资源后缀名，可手动修改
+        self.resource_suffix = ['pdf', 'ppt', 'pptx', 'doc', 'docs', 'zip', 'rar']
         
         self.base_path = path
         self.url_prefix = "https://raw.githubusercontent.com/HIT-FC-OpenCS/CS_Courses/main"
@@ -220,15 +220,15 @@ class WebsiteUpdater:
                             exit(1)
                         
                         major_dict[major].append({course_name: os.path.join(major, course_file)})
-                        logger.debug('construct major_dict: {}'.format(major_dict))
                     
+                    logger.debug('construct major_dict: {}'.format(major_dict))
                     new_yaml_data['nav'].append(major_dict)
             
-            with open('mkdocs.yml', 'w', encoding='utf-8') as yaml_file:
-                yaml.dump(new_yaml_data, yaml_file, default_flow_style=False, allow_unicode=True)
-            yaml_file.close()
+        with open('mkdocs.yml', 'w', encoding='utf-8') as yaml_file:
+            yaml.dump(new_yaml_data, yaml_file, default_flow_style=False, allow_unicode=True)
+        yaml_file.close()
             
-            logger.info('Successfully wrote yaml file.')
+        logger.info('Successfully wrote yaml file.')
 
 
 if __name__ == '__main__':
