@@ -103,3 +103,7 @@ Issue、PR、纠错、复习资料、学习笔记、选课/考试、回忆版考
 其他部分的版权归属于其各自的作者。
 
 资料仅供参考，课程内容及重点可能发生变化，请以老师上课实际讲授为准。
+
+## Star History
+
+![Star History Chart](https://api.star-history.com/svg?repos=HIT-FC-OpenCS/CS_Courses&type=Date)
