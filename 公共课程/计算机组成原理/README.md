@@ -65,7 +65,13 @@
 室友Y 96.5分 教学班第2 （计科班）
 
 
+### 一些可能有用的资源
+- 前人经验——4 学分计组速成指南：https://blog.csdn.net/LLL_LLLi/article/details/134163118?spm=1001.2014.3001.5502
+- 22 年期末试题回忆版：https://blog.csdn.net/weixin_52027058/article/details/128060862
+- 教材习题参考答案（强烈不建议抄袭）：https://blog.csdn.net/weixin_45735391/article/details/127336659
+- 网络课程资源——刘宏伟老师：https://www.bilibili.com/video/BV1t4411e7LH/?spm_id_from=333.337.searchcard.all.click
 
+  
 ### 参考书目
 
 - [1] 计算机组成原理 第3版，唐朔飞主编，高等教育出版社
